@@ -31,5 +31,4 @@ func main() {
 	if i < len(A) && A[i] == X {
 		fmt.Println(i + 1)
 	}
-	return
 }
